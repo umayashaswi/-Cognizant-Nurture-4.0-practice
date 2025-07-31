@@ -1,0 +1,27 @@
+/* OnlineShopping.css */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: green;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 300px;
+}
+
+th, td {
+  border: 1px solid gray;
+  padding: 10px;
+  text-align: center;
+  color: seagreen;
+  font-weight: bold;
+}
+
+th {
+  background-color: #f2f2f2;
+}

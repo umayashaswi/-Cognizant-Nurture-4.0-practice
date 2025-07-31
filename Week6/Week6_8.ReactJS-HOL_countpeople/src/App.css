@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px; 
+  margin-top: 150px;
+}
+
+.count-button-pair {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.count-button-pair button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #0eef70ff;
+  color: black;
+}
+
+.count-button-pair span {
+  font-size: 1.2rem;
+}
